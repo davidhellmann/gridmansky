@@ -8,6 +8,7 @@ Here you can Create your Grid for each Breakpoint: [Gridmansky](https://codepen.
 2. Double click on `gridmansky.sketchplugin`.
 
 OR Install via Sketchpack
+
 [![Install Gridmansky with Sketchpacks](http://sketchpacks-com.s3.amazonaws.com/assets/badges/sketchpacks-badge-install.png "Install Gridmansky with Sketchpacks")](https://sketchpacks.com/davidhellmann/gridmansky/install)
 
 
