@@ -24,17 +24,17 @@ OR Install via Sketchpack
 
 ## More visual? Go.
 
-![Screen 01](/screen_01.png)
+![Screen 01](/Gridmansky_01.png)
 
-![Screen 02](/screen_02.png)
+![Screen 02](/Gridmansky_02.png)
 
-![Screen 03](/screen_03.png)
+![Screen 03](/Gridmansky_03.png)
 
-![Screen 04](/screen_04.png)
+![Screen 04](/Gridmansky_04.png)
 
-![Screen 05](/screen_05.png)
+![Screen 05](/Gridmansky_05.png)
 
-![Screen 06](/screen_06.png)
+![Screen 06](/Gridmansky_06.png)
 
 
 ### 😥 Remove Grid
