@@ -1,0 +1,23 @@
+{
+  "name": "📏 Gridmansky",
+  "description": "How we use Grids at Fredmansky",
+  "author": "David Hellmann",
+  "authorEmail": "davidhellmann.com@gmail.com",
+  "homepage": "https://github.com/davidhellmann/Gridmansky",
+  "version": 1.0,
+  "identifier": "com.davidhellmann.sketch_gridmansky",
+  "commands": [
+    {
+      "name": "😏 Create Grid",
+      "identifier": "dhCreateGrid",
+      "shortcut": "ctrl cmd g",
+      "script": "gridmansky.js",
+      "handler": "dhCreateGrid"
+    }
+  ],
+  "menu": {
+    "items": [
+      "dhCreateGrid"
+    ]
+  }
+}
