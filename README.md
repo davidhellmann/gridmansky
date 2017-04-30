@@ -36,8 +36,6 @@ OR Install via Sketchpack
 
 ![Screen 06](/screen_06.png)
 
-![Screen 07](/screen_07.png)
-
 
 ### 😥 Remove Grid
 Just right click on the Ruler and choose "Remove All Vertical Guides"
