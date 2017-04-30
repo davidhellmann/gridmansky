@@ -24,8 +24,8 @@ function dhGridmansky(context, dhAction) {
 
     // Create guides
     function dhCreateGrid() {
-        var dhCols = Number(dhDoc.askForUserInput_initialValue("How many cols?", "12"));
-        var dhGutterWidth = Number(dhDoc.askForUserInput_initialValue("How much gutter width", "32"));
+        var dhCols = Number(dhDoc.askForUserInput_initialValue("How many columns?", "12"));
+        var dhGutterWidth = Number(dhDoc.askForUserInput_initialValue("How much gutter for each column", "32"));
         var dhNewLayerWidth = Math.round(dhLayerWidth - dhGutterWidth);
         var dhColWidth = Math.round(dhNewLayerWidth / dhCols)
 

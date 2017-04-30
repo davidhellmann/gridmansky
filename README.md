@@ -1,5 +1,6 @@
 # 📏 Gridmansky
 How we use Grids at Fredmansky!
+
 Here you can Create your Grid for each Breakpoint: [Gridmansky](https://codepen.io/davidhellmann/pen/XjxarX)
 
 
@@ -14,7 +15,28 @@ OR Install via Sketchpack
 
 ## Usage
 ### 😏 Create Grid
-`ctrl + cmd + g`
+1. Create an Artboard
+2. Create a Rectangle Shape
+3. Select this Rectangle
+4. Press: `ctrl + cmd + g` or go to: `Plugins > 📏 Gridmansky > 😏 Create Grid`
+5. Enter the amount of columns. But usually here is nothing to change
+6. Enter the gutter for each column
+
+## More visual? Go.
+
+![Screen 01](/screen_01.png)
+
+![Screen 02](/screen_02.png)
+
+![Screen 03](/screen_03.png)
+
+![Screen 04](/screen_04.png)
+
+![Screen 05](/screen_05.png)
+
+![Screen 06](/screen_06.png)
+
+![Screen 07](/screen_07.png)
 
 
 ### 😥 Remove Grid
