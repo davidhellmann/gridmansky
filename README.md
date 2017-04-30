@@ -24,16 +24,22 @@ OR Install via Sketchpack
 
 ## More visual? Go.
 
+1. Create an Artboard
 ![Screen 01](/Gridmansky_01.png)
 
+2. Create a Rectangle Shape and select this Rectangle
 ![Screen 02](/Gridmansky_02.png)
 
+3. Press: `ctrl + cmd + g` or go to: `Plugins > 📏 Gridmansky > 😏 Create Grid`
 ![Screen 03](/Gridmansky_03.png)
 
+4. Enter the amount of columns. But usually here is nothing to change
 ![Screen 04](/Gridmansky_04.png)
 
+5. Enter the gutter for each column
 ![Screen 05](/Gridmansky_05.png)
 
+6. Voila, here is your Grid
 ![Screen 06](/Gridmansky_06.png)
 
 
