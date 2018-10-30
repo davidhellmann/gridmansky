@@ -15,7 +15,7 @@ function dhGridmansky(context, dhAction) {
 
     // Check if a shape is selected
     if (dhSelection.length == 1) {
-        if (dhLayer.className() == "MSShapeGroup") {
+        if (dhLayer.className() == "MSRectangleShape" || dhLayer.className() == "MSLayerGroup" || dhLayer.className == "MSOvalShape") {
             dhCreateGrid();
         } else {
             dhDoc.showMessage("🤔 No Shape selected!");
